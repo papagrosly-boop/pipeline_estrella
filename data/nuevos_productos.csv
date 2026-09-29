@@ -1,0 +1,51 @@
+ProductoID,NombreProducto,MarcaProducto,NombreCategoria,NombreProveedor,PaisProveedor,PrecioListado
+PRD001,Portátil IdeaPad 15,Lenovo,Computadores,Importadora Andina Ltda.,Colombia,1830000.0
+PRD002,Portátil VivoBook 14,ASUS,Computadores,Samsung Electronics Latinoamérica,Panamá,2290000.0
+PRD003,Portátil Pavilion 15,HP,Computadores,Global Electronics Corp.,Estados Unidos,3080000.0
+PRD004,Portátil Inspiron 15,Dell,Computadores,EuroTech GmbH,Alemania,2200000.0
+PRD005,MacBook Air 13,Apple,Computadores,Office Solutions México,México,3820000.0
+PRD006,"Monitor 24"" Full HD",Samsung,Computadores,Importadora Andina Ltda.,Colombia,570000.0
+PRD007,"Monitor 27"" 4K",LG,Computadores,EuroTech GmbH,Alemania,1840000.0
+PRD008,Impresora Multifuncional EcoTank,Epson,Computadores,EuroTech GmbH,Alemania,1020000.0
+PRD009,All-in-One IdeaCentre 24,Lenovo,Computadores,EuroTech GmbH,Alemania,2960000.0
+PRD010,"Monitor Curvo 32""",Samsung,Computadores,Mueblería Industrial del Norte,Colombia,1990000.0
+PRD011,Galaxy S24,Samsung,Celulares y Tablets,TechDistribuciones S.A.S.,Colombia,4190000.0
+PRD012,Galaxy A55,Samsung,Celulares y Tablets,Global Electronics Corp.,Estados Unidos,1820000.0
+PRD013,iPhone 15,Apple,Celulares y Tablets,Nippon Audio Supply,Japón,3990000.0
+PRD014,Redmi Note 13,Xiaomi,Celulares y Tablets,Shenzhen Digital Trading Co.,China,1180000.0
+PRD015,Moto G84,Motorola,Celulares y Tablets,Nippon Audio Supply,Japón,840000.0
+PRD016,iPad 10ª Generación,Apple,Celulares y Tablets,Office Solutions México,México,2080000.0
+PRD017,Galaxy Tab S9 FE,Samsung,Celulares y Tablets,Nippon Audio Supply,Japón,2080000.0
+PRD018,Xiaomi Pad 6,Xiaomi,Celulares y Tablets,TechDistribuciones S.A.S.,Colombia,1640000.0
+PRD019,Audífonos WH-1000XM5,Sony,Audio,EuroTech GmbH,Alemania,1360000.0
+PRD020,AirPods Pro 2,Apple,Audio,Office Solutions México,México,930000.0
+PRD021,Galaxy Buds2 Pro,Samsung,Audio,Samsung Electronics Latinoamérica,Panamá,750000.0
+PRD022,Audífonos Tune 770NC,JBL,Audio,Pacific Import Export,Chile,530000.0
+PRD023,Parlante Flip 6,JBL,Audio,Nippon Audio Supply,Japón,620000.0
+PRD024,Parlante Charge 5,JBL,Audio,Importadora Andina Ltda.,Colombia,710000.0
+PRD025,Audífonos QuietComfort 45,Bose,Audio,Shenzhen Digital Trading Co.,China,1590000.0
+PRD026,Soundbar HT-S400,Sony,Audio,Importadora Andina Ltda.,Colombia,1330000.0
+PRD027,Echo Dot 5ª Gen,Amazon,Audio,Importadora Andina Ltda.,Colombia,260000.0
+PRD028,Audífonos Gamer Cloud II,HyperX,Audio,Mueblería Industrial del Norte,Colombia,480000.0
+PRD029,Micrófono USB Yeti,Blue,Audio,Nippon Audio Supply,Japón,490000.0
+PRD030,Parlante SoundLink Flex,Bose,Audio,Nippon Audio Supply,Japón,660000.0
+PRD031,Silla Ergonómica ErgoPro,Ergotec,Muebles de Oficina,Samsung Electronics Latinoamérica,Panamá,1230000.0
+PRD032,Escritorio Ajustable Eléctrico,Flexispace,Muebles de Oficina,Importadora Andina Ltda.,Colombia,1990000.0
+PRD033,Escritorio en L 160 cm,Rimax,Muebles de Oficina,Global Electronics Corp.,Estados Unidos,820000.0
+PRD034,Silla Gerencial en Cuero,Jamar,Muebles de Oficina,Shenzhen Digital Trading Co.,China,1110000.0
+PRD035,Archivador 4 Gavetas,Rimax,Muebles de Oficina,Office Solutions México,México,510000.0
+PRD036,Biblioteca Modular,Jamar,Muebles de Oficina,EuroTech GmbH,Alemania,570000.0
+PRD037,Mesa de Reuniones 6 Puestos,Flexispace,Muebles de Oficina,Nippon Audio Supply,Japón,2930000.0
+PRD038,Silla Gamer Pro,Ergotec,Muebles de Oficina,TechDistribuciones S.A.S.,Colombia,860000.0
+PRD039,Reposapiés Ergonómico,Ergotec,Muebles de Oficina,TechDistribuciones S.A.S.,Colombia,270000.0
+PRD040,Panel Divisor Acústico,Flexispace,Muebles de Oficina,Office Solutions México,México,500000.0
+PRD041,Mouse MX Master 3S,Logitech,Accesorios,Shenzhen Digital Trading Co.,China,580000.0
+PRD042,Teclado Inalámbrico K380,Logitech,Accesorios,Pacific Import Export,Chile,250000.0
+PRD043,Webcam C920 HD,Logitech,Accesorios,Nippon Audio Supply,Japón,290000.0
+PRD044,Hub USB-C 7 en 1,Anker,Accesorios,Mueblería Industrial del Norte,Colombia,240000.0
+PRD045,Cargador GaN 65W,Anker,Accesorios,Mueblería Industrial del Norte,Colombia,170000.0
+PRD046,Power Bank 20000 mAh,Xiaomi,Accesorios,Global Electronics Corp.,Estados Unidos,180000.0
+PRD047,Disco Duro Externo 2 TB,Seagate,Accesorios,EuroTech GmbH,Alemania,440000.0
+PRD048,SSD Portátil 1 TB T7,Samsung,Accesorios,Pacific Import Export,Chile,560000.0
+PRD049,Memoria USB 128 GB,SanDisk,Accesorios,Pacific Import Export,Chile,180000.0
+PRD050,Soporte Portátil de Aluminio,Baseus,Accesorios,Shenzhen Digital Trading Co.,China,260000.0

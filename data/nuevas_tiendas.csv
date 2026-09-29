@@ -1,0 +1,16 @@
+TiendaID,NombreTienda,Ciudad,Region,FechaApertura
+T01,Tienda Unicentro Bogotá,Bogotá,Andina,2020-07-09
+T02,Tienda Centro Andino,Bogotá,Andina,2014-05-09
+T03,Tienda Titán Plaza,Bogotá,Andina,2018-04-02
+T04,Tienda Oviedo Medellín,Medellín,Andina,2022-10-17
+T05,Tienda El Tesoro,Medellín,Andina,2019-11-19
+T06,Tienda Jardín Plaza Cali,Cali,Pacífica,2020-05-10
+T07,Tienda Chipichape,Cali,Pacífica,2016-04-27
+T08,Tienda Buenavista Barranquilla,Barranquilla,Caribe,2018-07-26
+T09,Tienda Caribe Plaza Cartagena,Cartagena,Caribe,2021-04-12
+T10,Tienda Cacique Bucaramanga,Bucaramanga,Andina,2021-10-30
+T11,Tienda Parque Arboleda,Pereira,Andina,2019-05-23
+T12,Tienda Viva Villavicencio,Villavicencio,Orinoquía,2013-08-20
+T13,Tienda Centro Yopal,Yopal,Orinoquía,2014-06-24
+T14,Tienda Leticia Centro,Leticia,Amazonía,2023-07-25
+T15,Tienda Florencia Centro,Florencia,Amazonía,2013-02-07
